@@ -1,4 +1,4 @@
-# fake-account-detection-on-instagram-using-svm-knn-rnn-ann-logistics-regression
+# fake-account-detection-on-instagram-using-knn
 Fake Account Detection on Instagram
 K-Nearest Neighbors (KNN) :
 K-Nearest Neighbors (KNN) is a supervised machine learning algorithm used for classification tasks. In the context of fake account detection on Instagram, KNN can play a significant role in identifying whether an account is fake or real based on its features.
